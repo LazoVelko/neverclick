@@ -8,7 +8,7 @@
 
 # Neverclick
 
-[Download](https://www.neverclick.com/) • [Discord](https://discord.gg/mJQ3KpsqP9) • [Twitter/X](https://x.com/LazoVelko) • [Reddit](https://www.reddit.com/r/neverclick/)
+[Download](https://www.neverclick.com/) • [Docs](https://www.neverclick.com/docs) • [Discord](https://discord.gg/mJQ3KpsqP9) • [Twitter/X](https://x.com/LazoVelko) • [Reddit](https://www.reddit.com/r/neverclick/)
 
 Neverclick is a desktop application for performing mouse actions with your keyboard.
 
@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/0d8f1f6d-286b-4d5e-95c0-f869d306cff4
 
 ### Other ways to switch between windows:
 
-- Use `Shift` + `Q` and `Shift` + `W` to cycle through overlapping windows.
+- Use `Shift` + `Q` and `Shift` + `E` to cycle through overlapping windows.
 - Use `Shift` + `Z` to switch into the window behind the currently active one.
 
 ### Jump to the beginning or end of a word.
@@ -59,27 +59,27 @@ https://github.com/user-attachments/assets/e33928f0-ca8a-486e-a02f-10b82e8c3a08
 
 ### Select multiple hints at once.
 
-Press `'` to enter Dual Select mode to select 2 hints.
+Press `Ctrl` + `D` to enter Dual Select mode to select 2 hints.
 
-Press `Shift` + `'` to enter Multi Select mode to select multiple hints. Press `Enter` to finish.
+Press `Ctrl` + `M` to enter Multi Select mode to select multiple hints. Press `Enter` to finish.
 
 https://github.com/user-attachments/assets/4c1843ac-636d-4a00-a9be-3ead30fca65f
 
 ### Select hints along a path.
 
-Press `Ctrl` + `'` to enter Path mode. Select 2 or more hints. All the hints between them will be selected automatically. Press `Enter` to finish.
+Press `Ctrl` + `P` to enter Path mode. Select 2 or more hints. All the hints between them will be selected automatically. Press `Enter` to finish.
 
 https://github.com/user-attachments/assets/d325c2aa-931a-4977-bdd5-2686000cd399
 
-### Highlight text without a mouse (coming soon).
+### Select text without a mouse.
 
-Activate the Text Highlighting Tool, then pick two hints to highlight the text between them.
+Activate the Text Selection Tool, then pick two hints to select the text between them.
 
 https://github.com/user-attachments/assets/c022bad1-5e6d-4b81-a52c-ef85bd764dba
 
-### Easily drag items without a mouse (coming soon).
+### Easily drag items without a mouse.
 
-Useful for dragging files between folders or rearranging the order of tabs in your web browser.
+Activate the Drag Tool, then pick where to grab and where to drop. Useful for dragging files between folders or rearranging the order of tabs in your web browser.
 
 https://github.com/user-attachments/assets/f7999510-e911-43dd-9c4c-60a468d9bfb3
 
@@ -201,7 +201,7 @@ Yes. Hints use your keyboard's language. The settings UI itself is English-only 
 
 ### Does it support Dvorak?
 
-Yes. Dvorak, Colemak, and other alternative keyboard layouts are natively supported, as long as the layout is set in Windows.
+Yes. Dvorak, Colemak, and other alternative keyboard layouts are natively supported, whether set in Windows or in the keyboard's firmware.
 
 ### Is there a portable version?
 

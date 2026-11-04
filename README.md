@@ -185,7 +185,7 @@ Yes. It's free to download and use. There are no accounts, subscriptions, or tri
 
 ### Is it Windows only?
 
-For now, yes. Linux, macOS, and Windows ARM (Snapdragon) aren't supported yet.
+For now, yes. Linux and macOS aren't supported yet.
 
 ### Does Neverclick have multimonitor support?
 
